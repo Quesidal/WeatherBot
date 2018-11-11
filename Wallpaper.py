@@ -1,7 +1,7 @@
 from unsplash.api import Api
 from unsplash.auth import Auth
 
-from local_keys import UNSPLASH_CLIENT_ID, UNSPLASH_CLIENT_SECRET
+from keys import UNSPLASH_CLIENT_ID, UNSPLASH_CLIENT_SECRET
 
 client_id = UNSPLASH_CLIENT_ID
 client_secret = UNSPLASH_CLIENT_SECRET
