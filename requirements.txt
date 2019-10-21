@@ -14,4 +14,4 @@ requests==2.20.1
 requests-oauthlib==0.7.0
 six==1.10.0
 unsplash==1.0.0a2
-urllib3==1.24.1
+urllib3==1.24.2
